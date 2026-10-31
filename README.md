@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 31/10/2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,7 +54,13 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+## EMPLOYEE DATA:
 
+<img width="1234" height="742" alt="image" src="https://github.com/user-attachments/assets/d0436f7e-5f83-40bf-94b0-addf48f27373" />
+
+## WEATHER DATA;
+
+<img width="1220" height="733" alt="image" src="https://github.com/user-attachments/assets/f94bfe87-3a82-41c8-8d0b-105148d5abb8" />
 
 ### PREPROCESSING
 ### Procedure:
@@ -75,6 +81,13 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA:
+
+<img width="1233" height="746" alt="image" src="https://github.com/user-attachments/assets/0ae0ee84-9b99-4136-b6da-912cc3406f66" />
+
+## WEATHER DATA:
+
+<img width="1230" height="749" alt="image" src="https://github.com/user-attachments/assets/0d32aa37-e3bd-4fac-8284-3c947002592a" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +104,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA:
+
+<img width="1234" height="742" alt="image" src="https://github.com/user-attachments/assets/ab2bb4af-672a-41af-aa1e-f4768dab15af" />
+
+## WEATHER DATA:
+
+<img width="1234" height="742" alt="image" src="https://github.com/user-attachments/assets/e5eb620b-c664-42aa-bbd3-1d3984211af8" />
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +127,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA:
+
+<img width="1234" height="742" alt="image" src="https://github.com/user-attachments/assets/8db7b3d8-4360-41cb-9265-d860568111f6" />
+
+## WEATHER DATA:
+
+<img width="1234" height="742" alt="image" src="https://github.com/user-attachments/assets/7232ae75-62cc-4b0c-a4f7-046a12d61ffc" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
